@@ -1,0 +1,20 @@
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\UploadFiles.exe
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\UploadFiles.pdb
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\UploadFiles.xml
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\CustomObjects.dll
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\Interop.Office.dll
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\Interop.Excel.dll
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\MySql.Data.dll
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\itextsharp.dll
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\CustomObjects.pdb
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\bin\Debug\CustomObjects.xml
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\obj\Debug\UploadFiles.Form1.resources
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\obj\Debug\UploadFiles.Resources.resources
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\obj\Debug\UploadFiles.vbproj.GenerateResource.Cache
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\obj\Debug\UploadFiles.exe
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\obj\Debug\UploadFiles.xml
+D:\PROJECTS\CustomObjects 8\UploadFiles\UploadFiles\obj\Debug\UploadFiles.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\UploadFiles\UploadFiles\obj\Debug\UploadFiles.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\UploadFiles\UploadFiles\obj\Debug\UploadFiles.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\UploadFiles\UploadFiles\obj\Debug\UploadFiles.pdb

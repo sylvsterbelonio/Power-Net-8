@@ -1,0 +1,36 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Power.NET8
+</name>
+</assembly>
+<members>
+<member name="P:PowerNET8.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:PowerNET8.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:PowerNET8.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:PowerNET8.MyPanelExtension.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:PowerNET8.MyPanelExtension.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member><member name="P:PowerNET8.My8Button.ImageSize">
+	<summary>
+ Get or Set the Image Size for MBGlassButton
+ </summary>
+</member>
+</members>
+</doc>

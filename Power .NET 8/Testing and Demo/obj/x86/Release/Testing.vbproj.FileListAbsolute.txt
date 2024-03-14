@@ -1,0 +1,26 @@
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\Testing.exe
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\Testing.pdb
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\MySql.Data.dll
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.Form1.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.Resources.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.vbproj.GenerateResource.Cache
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\RdlCompile.cache
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\RdlCompile.compiled
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.exe
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.pdb
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\Power .NET 8.dll
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\Testing.exe.config
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\Testing.exe.config
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\Testing.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\Testing.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Release\MySql.Data.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.Form1.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.Resources.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\RdlCompile.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\RdlCompile.compiled
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Release\Testing.pdb

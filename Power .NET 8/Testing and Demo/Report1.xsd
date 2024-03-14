@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_DataSetName="DataSet1" msprop:Generator_UserDSName="DataSet1" msprop:EnableTableAdapterManager="true">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="tlbDetails" msprop:Generator_UserTableName="tlbDetails" msprop:Generator_RowDeletedName="tlbDetailsRowDeleted" msprop:Generator_TableClassName="tlbDetailsDataTable" msprop:Generator_RowChangedName="tlbDetailsRowChanged" msprop:Generator_RowClassName="tlbDetailsRow" msprop:Generator_RowChangingName="tlbDetailsRowChanging" msprop:Generator_RowEvArgName="tlbDetailsRowChangeEvent" msprop:Generator_RowEvHandlerName="tlbDetailsRowChangeEventHandler" msprop:Generator_TablePropName="tlbDetails" msprop:Generator_TableVarName="tabletlbDetails" msprop:Generator_RowDeletingName="tlbDetailsRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Gender" msprop:Generator_UserColumnName="Gender" msprop:Generator_ColumnPropNameInRow="Gender" msprop:Generator_ColumnVarNameInTable="columnGender" msprop:Generator_ColumnPropNameInTable="GenderColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Section" msprop:Generator_UserColumnName="Section" msprop:Generator_ColumnPropNameInRow="Section" msprop:Generator_ColumnVarNameInTable="columnSection" msprop:Generator_ColumnPropNameInTable="SectionColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblSubDetails" msprop:Generator_UserTableName="tblSubDetails" msprop:Generator_RowDeletedName="tblSubDetailsRowDeleted" msprop:Generator_TableClassName="tblSubDetailsDataTable" msprop:Generator_RowChangedName="tblSubDetailsRowChanged" msprop:Generator_RowClassName="tblSubDetailsRow" msprop:Generator_RowChangingName="tblSubDetailsRowChanging" msprop:Generator_RowEvArgName="tblSubDetailsRowChangeEvent" msprop:Generator_RowEvHandlerName="tblSubDetailsRowChangeEventHandler" msprop:Generator_TablePropName="tblSubDetails" msprop:Generator_TableVarName="tabletblSubDetails" msprop:Generator_RowDeletingName="tblSubDetailsRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Type" msprop:Generator_UserColumnName="Type" msprop:Generator_ColumnPropNameInRow="Type" msprop:Generator_ColumnVarNameInTable="columnType" msprop:Generator_ColumnPropNameInTable="TypeColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Group" msprop:Generator_UserColumnName="Group" msprop:Generator_ColumnPropNameInRow="Group" msprop:Generator_ColumnVarNameInTable="columnGroup" msprop:Generator_ColumnPropNameInTable="GroupColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Amount" msprop:Generator_UserColumnName="Amount" msprop:Generator_ColumnPropNameInRow="Amount" msprop:Generator_ColumnVarNameInTable="columnAmount" msprop:Generator_ColumnPropNameInTable="AmountColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="tblGroup" msprop:Generator_UserTableName="tblGroup" msprop:Generator_RowDeletedName="tblGroupRowDeleted" msprop:Generator_TableClassName="tblGroupDataTable" msprop:Generator_RowChangedName="tblGroupRowChanged" msprop:Generator_RowClassName="tblGroupRow" msprop:Generator_RowChangingName="tblGroupRowChanging" msprop:Generator_RowEvArgName="tblGroupRowChangeEvent" msprop:Generator_RowEvHandlerName="tblGroupRowChangeEventHandler" msprop:Generator_TablePropName="tblGroup" msprop:Generator_TableVarName="tabletblGroup" msprop:Generator_RowDeletingName="tblGroupRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="planA" msprop:Generator_UserColumnName="planA" msprop:Generator_ColumnPropNameInRow="planA" msprop:Generator_ColumnVarNameInTable="columnplanA" msprop:Generator_ColumnPropNameInTable="planAColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="planB" msprop:Generator_UserColumnName="planB" msprop:Generator_ColumnPropNameInRow="planB" msprop:Generator_ColumnVarNameInTable="columnplanB" msprop:Generator_ColumnPropNameInTable="planBColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="planC" msprop:Generator_UserColumnName="planC" msprop:Generator_ColumnPropNameInRow="planC" msprop:Generator_ColumnVarNameInTable="columnplanC" msprop:Generator_ColumnPropNameInTable="planCColumn" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

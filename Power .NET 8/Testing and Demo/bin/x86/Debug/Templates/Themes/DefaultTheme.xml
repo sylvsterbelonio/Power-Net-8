@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<System.Windows.8.Themes>
+  <Background.Color value="146CE8" colorPicker="A6,A6" />
+  <Accent.Color value="3D6099" colorPicker="A6,A6" />
+  <Windows.Form backColor="FAFBFB" borderColor="E1A61E" />
+  <Windows.Form.Text focus.backcolor="fffccd" focus.forecolor="000000" lostfocus.backcolor="FFFFFF" readOnly.backcolor="efefef" lostfocus.forecolor="000000" readOnly.forecolor="6D6D6D" forecolor="000000" />
+  <Windows.Form.Text.Highlight select.backcolor="fffccd" select.forecolor="fffccd" unselect.backcolor="fffccd" unselect.forecolor="fffccd">
+    <Windows.Form.Datagridview backcolor="fffccd" gridcolor="ffffff" defaultcell.backcolor="fffccd" defaultcell.forecolor="fffccd" alternatecell.backcolor="fffccd" alternatecell.forecolor="fffccd" />
+  </Windows.Form.Text.Highlight>
+</System.Windows.8.Themes>

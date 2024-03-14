@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TestingandDemo
+</name>
+</assembly>
+<members>
+<member name="T:Testing_and_Demo.DataSet1.tlbDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Testing_and_Demo.DataSet1.tblSubDetailsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Testing_and_Demo.DataSet1.tblGroupDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Testing_and_Demo.DataSet1.tlbDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Testing_and_Demo.DataSet1.tblSubDetailsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Testing_and_Demo.DataSet1.tblGroupRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Testing_and_Demo.DataSet1.tlbDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Testing_and_Demo.DataSet1.tblSubDetailsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Testing_and_Demo.DataSet1.tblGroupRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Testing_and_Demo.DataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

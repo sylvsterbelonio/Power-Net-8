@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Custom Objects 8">
+</Property><Property Name="Solution File" Value="D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8.sln">
+</Property><Property Name="User Options File" Value="D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8.suo">
+</Property><Property Name="Date" Value="Thursday, January 09, 2014">
+</Property><Property Name="Time" Value="13:42 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Custom Objects 8.sln" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Custom Objects 8.suo" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8.suo">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Custom Objects 8.vbproj" Description="Project file successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Custom Objects 8.vbproj">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Custom Objects 8.vbproj.user" Description="Project user file successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Custom Objects 8.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Classes\myDefaultColorThemes.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Classes\myDefaultColorThemes.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Classes\myValidation.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Classes\myValidation.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Controls\My8Button.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Controls\My8Button.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Forms\frmFloatPanel.Designer.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Forms\frmFloatPanel.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Forms\frmFloatPanel.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Forms\frmFloatPanel.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Forms\windows8Button.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Forms\windows8Button.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Forms\windows8Button.Designer.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Forms\windows8Button.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\My Project\Application.Designer.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\My Project\Application.myapp" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\My Project\Settings.settings" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Forms\frmFloatPanel.resx" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Forms\frmFloatPanel.resx">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Forms\windows8Button.resx" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\Forms\windows8Button.resx">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\My Project\licenses.licx" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\My Project\licenses.licx">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\My Project\Resources.resx" Description="File successfully backed up as D:\PROJECTS\CustomObjects 8\Custom Objects 8\Backup\Custom Objects 8\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Custom Objects 8.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Custom Objects 8" Source="Custom Objects 8\Custom Objects 8.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Custom Objects 8.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Custom Objects 8.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Custom Objects 8" Source="Custom Objects 8\Custom Objects 8.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

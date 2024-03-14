@@ -1,0 +1,26 @@
+windows default color
+
+gray - A4A8AA
+hot pink - EC56A7
+sky blue - 83CCFE
+pink - EE95D5
+cyan - 51AEFB
+violete - 9295FE
+white - F5F9FB
+peach - F86C6E
+green - 40CC73
+violete - BD87FE
+yellow - ECCF3F
+green - A6D55E
+cyan blue - 71D6D8
+ornage - F9AC50
+
+button system
+	background color normal- CCCCCC
+	background color hover -D8D8D8
+
+	normal font - black
+	hover font - black
+
+	pressed backcolor = black
+	pressed forecolor = white

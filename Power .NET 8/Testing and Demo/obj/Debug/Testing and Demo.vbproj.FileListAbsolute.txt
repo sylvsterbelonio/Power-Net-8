@@ -1,0 +1,16 @@
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Testing and Demo.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Testing and Demo.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Testing and Demo.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Power .NET 8.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\MySql.Data.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Power .NET 8.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Power .NET 8.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing_and_Demo.frmSampleButtonIcons.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing_and_Demo.Resources.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing and Demo.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing and Demo.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing and Demo.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing and Demo.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\RdlCompile.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\RdlCompile.compiled

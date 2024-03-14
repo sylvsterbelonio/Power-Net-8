@@ -1,0 +1,23 @@
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Testing.exe.config
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\Testing.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\Testing.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\Testing.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Testing.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Testing.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Testing.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\MySql.Data.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Power .NET 8.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\Testing.frmMain.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\Testing.frmSample.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\Testing.frmThemeSampler.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\Testing.Resources.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\Testing.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\RdlCompile.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\RdlCompile.compiled
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\office.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Power .NET 8.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\x86\Debug\Testing.Form1.resources

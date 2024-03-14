@@ -1,0 +1,16 @@
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Testing.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Testing.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Power .NET 8.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\MySql.Data.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Power .NET 8.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing.frmSampleButtonIcons.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing.Resources.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\RdlCompile.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\RdlCompile.compiled
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Testing.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\obj\Debug\Testing.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\Debug\Custom Objects 8.xml

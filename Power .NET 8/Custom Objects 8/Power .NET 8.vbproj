@@ -1,0 +1,894 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="3.5">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{57EC1845-8159-4B28-A69B-E9DFBD615E0F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <StartupObject>
+    </StartupObject>
+    <RootNamespace>PowerNET8</RootNamespace>
+    <AssemblyName>Power .NET 8</AssemblyName>
+    <MyType>Windows</MyType>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <RunPostBuildEvent>Always</RunPostBuildEvent>
+    <OptionCompare>Binary</OptionCompare>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>1.1.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Power .NET 8.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningLevel>1</WarningLevel>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Power .NET 8.xml</DocumentationFile>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningLevel>1</WarningLevel>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <WarningLevel>1</WarningLevel>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <DocumentationFile>Power .NET 8.xml</DocumentationFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+    <WarningLevel>1</WarningLevel>
+    <Optimize>true</Optimize>
+    <GenerateSerializationAssemblies>On</GenerateSerializationAssemblies>
+    <NoWarn>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</NoWarn>
+    <WarningsAsErrors>
+    </WarningsAsErrors>
+    <DocumentationFile>Power .NET 8.xml</DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.CrystalReports.Engine\10.5.3700.0__692fbea5521e1304\CrystalDecisions.CrystalReports.Engine.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.ReportSource\10.5.3700.0__692fbea5521e1304\CrystalDecisions.ReportSource.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\CrystalDecisions.Shared\10.5.3700.0__692fbea5521e1304\CrystalDecisions.Shared.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Infragistics2.Shared.v7.3, Version=7.3.20073.38, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v7.3, Version=7.3.20073.38, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics2.Win.UltraWinTabControl.v7.3, Version=7.3.20073.38, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Infragistics2.Win.v7.3, Version=7.3.20073.38, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb" />
+    <Reference Include="Interop.Office, Version=2.1.0.0, Culture=neutral" />
+    <Reference Include="itextsharp, Version=5.4.1.0, Culture=neutral, PublicKeyToken=8354ae6d2174ddca, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\DLL\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\x86\Debug\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\Microsoft Viewer\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\Microsoft Viewer\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=5.2.5.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\DLL\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="Power .NET 8, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <ExecutableExtension>.exe</ExecutableExtension>
+    </Reference>
+    <Reference Include="Svg, Version=0.5.2.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\DLL\Svg.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.ServiceProcess" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\Application\myApplication.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\Common\myChangePassword.vb" />
+    <Compile Include="Classes\Common\mySystemLock.vb" />
+    <Compile Include="Classes\Dialog\myDialog.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\Dialog\PDB.Designer.vb">
+      <DependentUpon>PDB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Dialog\PDB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Document\CRV.Designer.vb">
+      <DependentUpon>CRV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Document\CRV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Document\MRV.Designer.vb">
+      <DependentUpon>MRV.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Document\MRV.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Document\myDocument.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\Error Handler\frmErrorDialog.Designer.vb">
+      <DependentUpon>frmErrorDialog.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Error Handler\frmErrorDialog.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Error Handler\frmErrorDialogMoreInfo.Designer.vb">
+      <DependentUpon>frmErrorDialogMoreInfo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Error Handler\frmErrorDialogMoreInfo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Error Handler\myExceptionHandler.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\Libraries\myColor.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\Libraries\myFunctions.vb" />
+    <Compile Include="Classes\Libraries\myIcons.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\myAbout.vb" />
+    <Compile Include="Classes\myAssemblyInfo.vb" />
+    <Compile Include="Classes\myAttributes.vb" />
+    <Compile Include="Classes\myBrowseDialog.vb" />
+    <Compile Include="Classes\myCharacter.vb" />
+    <Compile Include="Classes\myCommon.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\myConnector.vb" />
+    <Compile Include="Classes\myControls.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\myDataTableCreator.vb" />
+    <Compile Include="Classes\myDate.vb" />
+    <Compile Include="Classes\myEncrypt.vb" />
+    <Compile Include="Classes\myEvents.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\myFile.vb" />
+    <Compile Include="Classes\myForm.vb" />
+    <Compile Include="Classes\myImage.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\myLibrary.vb" />
+    <Compile Include="Classes\Common\myLogIns.vb" />
+    <Compile Include="Classes\myNumber.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\myObject.vb" />
+    <Compile Include="Classes\myObjectFetcher.vb" />
+    <Compile Include="Classes\myPicture.vb" />
+    <Compile Include="Classes\Mysql\frmSqlConfiguration.Designer.vb">
+      <DependentUpon>SC.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Mysql\mySql.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\Mysql\SC.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\myString.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\myValication.vb" />
+    <Compile Include="Classes\myValidation.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\myVisualEffects.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\myWelcomeScreen.vb" />
+    <Compile Include="Controls\Windows 7\Buttons\CButton\CButton.Designer.vb">
+      <DependentUpon>CButton.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 7\Buttons\CButton\CButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\Buttons\CButton\CButtonDesigner.vb" />
+    <Compile Include="Controls\Windows 7\Buttons\CButton\dlgCorners.designer.vb">
+      <DependentUpon>dlgCorners.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 7\Buttons\CButton\dlgCorners.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\Buttons\CButton\DropdownColorBlender.designer.vb">
+      <DependentUpon>DropdownColorBlender.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 7\Buttons\CButton\DropdownColorBlender.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\Buttons\GlassButton\My7GlassButton.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\ContextMenuStrip\MyContextMenuStrip.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\ListBox\MyListBoxExtension.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\MenuStrip\MyMenuStripExtension.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\StatusStrip\MyStatusStripExtension.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\StatusStrip\myStatusViewer.Designer.vb">
+      <DependentUpon>myStatusViewer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 7\StatusStrip\myStatusViewer.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\TabControls\myTabControlExtension.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\TextBox\My7LabelTextBox.Designer.vb">
+      <DependentUpon>My7LabelTextBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 7\TextBox\My7LabelTextBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\TextBox\My7TextBoxExtension.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\TextBox\MyTextBoxExtension.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\ToolStrip\MyNavigationGrid.Designer.vb">
+      <DependentUpon>MyNavigationGrid.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 7\ToolStrip\MyNavigationGrid.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\ToolStrip\MyToolStripExtension.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\Button\My8Button.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\Panel\My8AccentColor.Designer.vb">
+      <DependentUpon>My8AccentColor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 8\Panel\My8AccentColor.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\Panel\My8BackgroundColor.Designer.vb">
+      <DependentUpon>My8BackgroundColor.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 8\Panel\My8BackgroundColor.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\Panel\My7PanelExtension.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\Panel\UserControl1.Designer.vb">
+      <DependentUpon>UserControl1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 8\Panel\UserControl1.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\My8TabControl.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\NativeMethods.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\TabStyleProviders\TabStyleAngledProvider.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\TabStyleProviders\TabStyleChromeProvider.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\TabStyleProviders\TabStyleDefaultProvider.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\TabStyleProviders\TabStyleIE8Provider.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\TabStyleProviders\TabStyleNoneProvider.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\TabStyleProviders\TabStyleRoundedProvider.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\TabStyleProviders\TabStyleVisualStudioProvider.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\TabStyleProviders\TabStyleVS2010Provider.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TabControl\ThemedColors.vb">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TextBox\My8TextBox.Designer.vb">
+      <DependentUpon>My8TextBox.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 8\TextBox\My8TextBox.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\ComboBox\MyComboBoxExtension.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\Common\frmChangePassword.Designer.vb">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Common\frmChangePassword.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Common\frmLogIn.designer.vb">
+      <DependentUpon>frmLogIn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Common\frmLogIn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Common\frmProgressBar.Designer.vb">
+      <DependentUpon>frmProgressBar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Common\frmProgressBar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Common\frmShadow.Designer.vb">
+      <DependentUpon>frmShadow.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Common\frmShadow.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Common\frmSplashScreen.Designer.vb">
+      <DependentUpon>frmSplashScreen.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Common\frmSplashScreen.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Common\frmSystemLock.Designer.vb">
+      <DependentUpon>frmSystemLock.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Common\frmSystemLock.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Container Form\frmSideContainer.Designer.vb">
+      <DependentUpon>frmSideContainer.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Container Form\frmSideContainer.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Dialog\frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Dialog\frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmConnector.Designer.vb">
+      <DependentUpon>frmConnector.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmConnector.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmThemeColorSample.Designer.vb">
+      <DependentUpon>frmThemeColorSample.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmThemeColorSample.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\iconCropper.Designer.vb">
+      <DependentUpon>iconCropper.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\iconCropper.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Label\gLabel.Designer.vb">
+      <DependentUpon>gLabel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Label\gLabel.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Forms\Label\LabelDropdownColorBlender.designer.vb">
+      <DependentUpon>LabelDropdownColorBlender.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Label\LabelDropdownColorBlender.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\LineSeparator\myLineSeparator.Designer.vb">
+      <DependentUpon>myLineSeparator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 7\LineSeparator\myLineSeparator.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controls\Windows 7\LineSeparator\MyLineSeparatorLabel.Designer.vb">
+      <DependentUpon>MyLineSeparatorLabel.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Controls\Windows 7\LineSeparator\MyLineSeparatorLabel.vb">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Forms\null.Designer.vb">
+      <DependentUpon>null.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\null.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Classes\Dialog\S.Designer.vb">
+      <DependentUpon>S.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Classes\Dialog\S.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Side Panel\frmPanelClickSetting.Designer.vb">
+      <DependentUpon>frmPanelClickSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Side Panel\frmPanelClickSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Side Panel\frmPanelSettings.Designer.vb">
+      <DependentUpon>frmPanelSettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Side Panel\frmPanelSettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\Side Panel\frmTransparentIcon.Designer.vb">
+      <DependentUpon>frmTransparentIcon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\Side Panel\frmTransparentIcon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XML Generator\frmXMLBrowser.Designer.vb">
+      <DependentUpon>frmXMLBrowser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XML Generator\frmXMLBrowser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XML Generator\frmXMLGenerator.Designer.vb">
+      <DependentUpon>frmXMLGenerator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XML Generator\frmXMLGenerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\XML Generator\frmXMLGeneratorSQL.Designer.vb">
+      <DependentUpon>frmXMLGeneratorSQL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\XML Generator\frmXMLGeneratorSQL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\modApp.vb" />
+    <Compile Include="Modules\modMain.vb" />
+    <Compile Include="Modules\modPublic.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Classes\Dialog\PDB.resx">
+      <DependentUpon>PDB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Document\CRV.resx">
+      <DependentUpon>CRV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Document\MRV.resx">
+      <DependentUpon>MRV.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Error Handler\frmErrorDialog.resx">
+      <DependentUpon>frmErrorDialog.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Error Handler\frmErrorDialogMoreInfo.resx">
+      <DependentUpon>frmErrorDialogMoreInfo.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Mysql\frmSqlConfiguration.resx">
+      <DependentUpon>SC.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 7\Buttons\CButton\CButton.resx">
+      <DependentUpon>CButton.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 7\Buttons\CButton\dlgCorners.resx">
+      <DependentUpon>dlgCorners.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 7\Buttons\CButton\DropdownColorBlender.resx">
+      <DependentUpon>DropdownColorBlender.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 7\StatusStrip\myStatusViewer.resx">
+      <DependentUpon>myStatusViewer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 7\TextBox\My7LabelTextBox.resx">
+      <DependentUpon>My7LabelTextBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 7\ToolStrip\MyNavigationGrid.resx">
+      <DependentUpon>MyNavigationGrid.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 8\Panel\My8AccentColor.resx">
+      <DependentUpon>My8AccentColor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 8\Panel\My8BackgroundColor.resx">
+      <DependentUpon>My8BackgroundColor.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 8\Panel\UserControl1.resx">
+      <DependentUpon>UserControl1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 8\TextBox\My8TextBox.resx">
+      <DependentUpon>My8TextBox.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Common\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Common\frmLogIn.resx">
+      <DependentUpon>frmLogIn.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Common\frmProgressBar.resx">
+      <DependentUpon>frmProgressBar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Common\frmShadow.resx">
+      <DependentUpon>frmShadow.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Common\frmSplashScreen.resx">
+      <DependentUpon>frmSplashScreen.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Common\frmSystemLock.resx">
+      <DependentUpon>frmSystemLock.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Container Form\frmSideContainer.resx">
+      <DependentUpon>frmSideContainer.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Dialog\frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmConnector.resx">
+      <DependentUpon>frmConnector.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmThemeColorSample.resx">
+      <DependentUpon>frmThemeColorSample.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\iconCropper.resx">
+      <DependentUpon>iconCropper.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Label\LabelDropdownColorBlender.resx">
+      <DependentUpon>LabelDropdownColorBlender.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 7\LineSeparator\myLineSeparator.resx">
+      <DependentUpon>myLineSeparator.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Controls\Windows 7\LineSeparator\MyLineSeparatorLabel.resx">
+      <DependentUpon>MyLineSeparatorLabel.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\null.resx">
+      <DependentUpon>null.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Classes\Dialog\S.resx">
+      <DependentUpon>S.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Side Panel\frmPanelClickSetting.resx">
+      <DependentUpon>frmPanelClickSetting.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Side Panel\frmPanelSettings.resx">
+      <DependentUpon>frmPanelSettings.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\Side Panel\frmTransparentIcon.resx">
+      <DependentUpon>frmTransparentIcon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XML Generator\frmXMLBrowser.resx">
+      <DependentUpon>frmXMLBrowser.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XML Generator\frmXMLGenerator.resx">
+      <DependentUpon>frmXMLGenerator.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\XML Generator\frmXMLGeneratorSQL.resx">
+      <DependentUpon>frmXMLGeneratorSQL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\licenses.licx" />
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\alarm.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\Left_Arrow_H.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\Left_Arrow_N.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\D_Arrow_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\D_Arrow_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\L_Arrow_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\L_Arrow_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\R_Arrow_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\R_Arrow_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\U_Arrow_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\U_Arrow_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\arrow_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\arrow_11.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\null.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\circ_arrow_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\circ_arrow_2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\arrow_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\circ_arrow1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Custom Icons\circ_arrow2.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ui-icons_ffffff_256x240.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ui-icons_070603_256x240.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ui-icons_cd0a0a_256x240.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\JQMobileButton2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Window8_black.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Window8_white.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\report.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Window8_white_edited.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TitleBarIcons4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\DialogBoxIcon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sample.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Controls\Windows 7\Buttons\GlassButton\My7GlassButton.snk" />
+    <None Include="Resources\gray-jquery.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Controls\Windows 7\Buttons\GlassButton\My7GlassButton" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Controls\Windows 7\Buttons\CButton\CButton.bmp" />
+    <None Include="Resources\button_cancel.png" />
+    <None Include="Resources\exit.png" />
+    <None Include="Resources\lock.png" />
+    <None Include="Resources\Tpdkdesign.net-Refresh-Cl-System-Security-Center.ico" />
+    <None Include="Resources\Fatcow-Farm-Fresh-Application-tile-vertical.ico" />
+    <None Include="Resources\Fatcow-Farm-Fresh-Application-tile-horizontal.ico" />
+    <None Include="Resources\Fatcow-Farm-Fresh-Application-cascade.ico" />
+    <None Include="Resources\layers-stack-arrange-icon.png" />
+    <None Include="Resources\Adobe-Acrobat-Reader-icon.png" />
+    <None Include="Resources\power-point-icon.png" />
+    <None Include="Resources\Microsoft-Excel-icon.png" />
+    <None Include="Resources\Notepad++-icon.png" />
+    <None Include="Resources\Microsoft-Word-icon.png" />
+    <None Include="Resources\Utilities-calculator-icon.png" />
+    <None Include="Resources\greendock_shadow.png" />
+    <None Include="Resources\pbar-ani1.gif" />
+    <None Include="Resources\red jquery-icon.png" />
+    <None Include="Resources\ui-icons_2e83ff_256x240.png" />
+    <None Include="Resources\ui_darkness_white_ui_icon.png" />
+    <None Include="Resources\excel.png" />
+    <None Include="Resources\word.png" />
+    <None Include="Resources\pdf.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

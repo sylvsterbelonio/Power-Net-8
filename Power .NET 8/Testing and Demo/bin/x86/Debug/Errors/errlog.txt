@@ -1,0 +1,135 @@
+Title: Error
+Message: InvalidArgument=Value of '100' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+StackTrace:    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at Testing.frmSample.My8Button1_Click(Object sender, EventArgs e) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\Forms\frmSample.vb:line 4
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at PowerNET8.My8Button.OnMouseUp(MouseEventArgs mevent) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Controls\Button\My8Button.vb:line 319
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+Date/Time: 6/5/2014 9:13:29 AM
+===========================================================================================
+Title: Error
+Message: InvalidArgument=Value of '100' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+StackTrace:    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at Testing.frmSample.My8Button1_Click(Object sender, EventArgs e) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\Forms\frmSample.vb:line 4
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at PowerNET8.My8Button.OnMouseUp(MouseEventArgs mevent) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Controls\Button\My8Button.vb:line 319
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+Date/Time: 6/5/2014 9:24:12 AM
+===========================================================================================
+Title: Error
+Message: InvalidArgument=Value of '100' is not valid for 'SelectedIndex'.
+Parameter name: SelectedIndex
+StackTrace:    at System.Windows.Forms.ComboBox.set_SelectedIndex(Int32 value)
+   at Testing.frmSample.My8Button1_Click(Object sender, EventArgs e) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\Forms\frmSample.vb:line 4
+   at System.Windows.Forms.Control.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnClick(EventArgs e)
+   at System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   at PowerNET8.My8Button.OnMouseUp(MouseEventArgs mevent) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Controls\Button\My8Button.vb:line 319
+   at System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   at System.Windows.Forms.Control.WndProc(Message& m)
+   at System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   at System.Windows.Forms.Button.WndProc(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   at System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   at System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+Date/Time: 6/5/2014 9:24:46 AM
+===========================================================================================
+Title: Error
+Message: Index was outside the bounds of the array.
+StackTrace:    at PowerNET8.myApplication.Init.AssemblyInformation.getAssemblyFlags() in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Application\myApplication.vb:line 160
+   at PowerNET8.myDocument.Share.XMLDesigner.AssemblyInfoConfig.writeAssemblyInfo(Assembly asm) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 478
+Date/Time: 6/5/2014 1:35:56 PM
+===========================================================================================
+Title: Error
+Message: Index was outside the bounds of the array.
+StackTrace:    at PowerNET8.myApplication.Init.AssemblyInformation.getAssemblyFlags() in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Application\myApplication.vb:line 160
+   at PowerNET8.myDocument.Share.XMLDesigner.AssemblyInfoConfig.writeAssemblyInfo(Assembly asm) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 478
+Date/Time: 6/5/2014 1:37:00 PM
+===========================================================================================
+Title: Error
+Message: The process cannot access the file 'C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Templates\license.rtf' because it is being used by another process.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path)
+   at PowerNET8.myDocument.Share.XMLDesigner.License.writeLicense(String runCode) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 464
+   at PowerNET8.myDocument.Share.XMLDesigner.AssemblyInfoConfig.writeAssemblyInfo(Assembly asm) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 565
+Date/Time: 6/5/2014 2:12:05 PM
+===========================================================================================
+Title: Error
+Message: The process cannot access the file 'C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Templates\license.rtf' because it is being used by another process.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.File.Delete(String path)
+   at PowerNET8.myFile.Share.Files.deleteFile(String filePath) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\myFile.vb:line 77
+   at PowerNET8.myDocument.Share.XMLDesigner.License.writeLicense(String runCode) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 462
+   at PowerNET8.myDocument.Share.XMLDesigner.AssemblyInfoConfig.writeAssemblyInfo(Assembly asm) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 640
+Date/Time: 6/5/2014 3:52:04 PM
+===========================================================================================
+Title: Error
+Message: Could not find a part of the path 'C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Templates\Help\license.rtf'.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path)
+   at PowerNET8.myDocument.Share.XMLDesigner.License.writeLicense(String runCode) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 475
+   at PowerNET8.myDocument.Share.XMLDesigner.AssemblyInfoConfig.writeAssemblyInfo(Assembly asm) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 630
+Date/Time: 6/5/2014 4:02:07 PM
+===========================================================================================
+Title: Error
+Message: Could not find a part of the path 'C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Templates\Help\license.rtf'.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path)
+   at PowerNET8.myDocument.Share.XMLDesigner.License.writeLicense(String runCode) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 475
+   at PowerNET8.myDocument.Share.XMLDesigner.AssemblyInfoConfig.writeAssemblyInfo(Assembly asm) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 630
+Date/Time: 6/5/2014 4:03:12 PM
+===========================================================================================
+Title: Error
+Message: Could not find a part of the path 'C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Templates\Help\license.rtf'.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path)
+   at PowerNET8.myDocument.Share.XMLDesigner.License.writeLicense(String runCode) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 475
+   at PowerNET8.myDocument.Share.XMLDesigner.AssemblyInfoConfig.writeAssemblyInfo(Assembly asm) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 630
+Date/Time: 6/5/2014 4:27:17 PM
+===========================================================================================
+Title: Error
+Message: Could not find a part of the path 'C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Testing and Demo\bin\x86\Debug\Templates\Help\license.rtf'.
+StackTrace:    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options)
+   at System.IO.StreamWriter.CreateFile(String path, Boolean append)
+   at System.IO.StreamWriter..ctor(String path, Boolean append, Encoding encoding, Int32 bufferSize)
+   at System.IO.StreamWriter..ctor(String path)
+   at PowerNET8.myDocument.Share.XMLDesigner.License.writeLicense(String runCode) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 475
+   at PowerNET8.myDocument.Share.XMLDesigner.AssemblyInfoConfig.writeAssemblyInfo(Assembly asm) in C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\Classes\Document\myDocument.vb:line 630
+Date/Time: 6/5/2014 4:27:35 PM
+===========================================================================================

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<System.Windows.8.Themes>
+  <Background.Color value="#00286C" colorPicker="B3,blue" />
+  <Accent.Color value="#212121" colorPicker="B1,black" />
+  <Windows.Form backColor="FAFBFB" borderColor="E1A61E" />
+</System.Windows.8.Themes>

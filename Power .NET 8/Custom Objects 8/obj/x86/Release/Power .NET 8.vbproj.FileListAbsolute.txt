@@ -1,0 +1,65 @@
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\MySql.Data.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\Svg.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmSideContainer.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmErrorDialog.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmErrorDialogMoreInfo.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmPanelClickSetting.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmMain.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmPanelSettings.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmTransparentIcon.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.Resources.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\Power .NET 8.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmCrystalReportViewer.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.MRV.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\MySql.Data.dll
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\Svg.dll
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\ResolveAssemblyReference.cache
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.PDB.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.S.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmCrystalReportViewer.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.MRV.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmErrorDialog.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmErrorDialogMoreInfo.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.SC.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.AccentColor.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.BackgroundColor.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmSideContainer.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmPanelClickSetting.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmMain.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmPanelSettings.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmTransparentIcon.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.Resources.resources
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\Power .NET 8.vbproj.GenerateResource.Cache
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\Power .NET 8.dll.licenses
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\Power .NET 8.dll
+D:\PROJECTS\New Custom Objects 2013\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.PDB.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.S.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.SC.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\Power .NET 8.dll.licenses
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\Power .NET 8.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\Power .NET 8.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\CrystalDecisions.Enterprise.Framework.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\CrystalDecisions.Enterprise.InfoStore.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\CrystalDecisions.Shared.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\itextsharp.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\x86\Release\CrystalDecisions.Windows.Forms.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.CButton.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.dlgCorners.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.DropdownColorBlender.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.My7LabelTextBox.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.myNavigationGrid.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.My8AccentColor.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.My8BackgroundColor.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.UserControl1.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.My8TextBox.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.Form1.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.frmThemeColorSample.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.iconCropper.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\PowerNET8.null.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\x86\Release\Power .NET 8.xml

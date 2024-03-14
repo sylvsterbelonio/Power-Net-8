@@ -1,0 +1,610 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CustomObjects
+</name>
+</assembly>
+<members>
+<member name="M:CustomObjects.myRenderer_MenuStrip.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:CustomObjects.myRenderer_MenuStrip.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member><member name="M:CustomObjects.MyDataGridViewExtension.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:CustomObjects.MyDataGridViewExtension.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member><member name="F:CustomObjects.MBGlassButton.Components">
+	<summary>
+ Required by the Form Designer Variable
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.#ctor">
+	<summary>
+ Create New Object of MBGlassButton and Initialize it.
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.InitializeComponent">
+	<summary>
+ Initialize the MBGlassButton Components
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.Dispose(System.Boolean)">
+	<summary>
+ MBExplorer Overrides Dispose to CleanUp component list
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.OnCreateControl">
+	<summary>
+ Create Base for MBGlassButton
+ </summary>
+</member><member name="T:CustomObjects.MBGlassButton.MB_SplitLocation">
+	<summary>
+ Enum to Set Split Location for MBGlasButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.SplitLocation">
+	<summary>
+ Get or Set the Location to Split Button into Two Parts
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.ImageSize">
+	<summary>
+ Get or Set the Image Size for MBGlassButton
+ </summary>
+</member><member name="T:CustomObjects.MBGlassButton.MB_ShowBase">
+	<summary>
+ Enum for Base Visibility
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.ShowBase">
+	<summary>
+ Get or Set Base Visibility for MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.Radius">
+	<summary>
+ Get or Set Corner Radius for MBGlassButton
+ </summary>
+</member><member name="T:CustomObjects.MBGlassButton.MB_GroupPos">
+	<summary>
+ Enum for Group Position of MBGlassButton
+ </summary>
+</member><member name="F:CustomObjects.MBGlassButton._grouppos">
+	<summary>
+ Get or Set Group Position for MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.Arrow">
+	<summary>
+ Get or Set Arrow visibility of MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.SplitButton">
+	<summary>
+ Get or Set Split Option for MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.SplitDistance">
+	<summary>
+ Get or Set Split Distance for MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.KeepPressed">
+	<summary>
+ Get or Set Button State of MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.IsPressed">
+	<summary>
+ Get or Set State of MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.MenuListPosition">
+	<summary>
+ Get ot Set DropDown Menu Position of MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.BaseColor">
+	<summary>
+ Get or Set Base Color for MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.OnColor">
+	<summary>
+ Get ot Set OnColor of MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.PressColor">
+	<summary>
+ Get or Set Color when MBGlassButton is Pressed.
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.BaseStrokeColor">
+	<summary>
+ Get or Set Base Stroke for MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.OnStrokeColor">
+	<summary>
+ Get or Set OnStroke Color for MBGlassButton
+ </summary>
+</member><member name="P:CustomObjects.MBGlassButton.PressStrokeColor">
+	<summary>
+ Get or Set PressStroke Color of MBGlassButton
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.GetColorIncreased(System.Drawing.Color,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Return Color with Increase Value
+ </summary>
+	<param name="color">The Value As System.Drawing.Color</param>
+	<param name="h">Hue Value As Integer</param>
+	<param name="s">Saturation Value As Integer</param>
+	<param name="b">Brightness Value As Integer</param>
+	<returns>Returns New Color</returns>
+</member><member name="M:CustomObjects.MBGlassButton.GetColor(System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Returns New Color From ARGB Values
+ </summary>
+	<param name="A">Alpha value as Integer</param>
+	<param name="R">Red value as integer</param>
+	<param name="G">Green value as Integer</param>
+	<param name="B">Blue value as Integer</param>
+	<returns>New Color</returns>
+</member><member name="M:CustomObjects.MBGlassButton.OnPaint(System.Windows.Forms.PaintEventArgs)">
+	<summary>
+ Handles MBGlassButton Paint
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.OnResize(System.EventArgs)">
+	<summary>
+ Handles MBGlassButton Resize
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.MBGlassButton_ContextMenuStripChanged(System.Object,System.EventArgs)">
+	<summary>
+ Hnadles ContaxtMenuStrip Rendering
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.FillGradients(System.Drawing.Graphics,System.Drawing.Drawing2D.GraphicsPath)">
+	<summary>
+ Handles Glowing of MBGlassButton
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.DrawText(System.Drawing.Graphics)">
+	<summary>
+ Draw Text on MBGlassButton
+ </summary>
+	<param name="g">G as Graphics</param>
+</member><member name="M:CustomObjects.MBGlassButton.TextAlignment(System.Drawing.ContentAlignment)">
+	<summary>
+ Text Alignment of MBGlassButton
+ </summary>
+	<param name="textalign">TextAlignment Value</param>
+	<returns>String Format</returns>
+</member><member name="M:CustomObjects.MBGlassButton.DrawArc(System.Drawing.Rectangle,System.Drawing.Drawing2D.GraphicsPath)">
+	<summary>
+ Draw arc for MBGlassButton
+ </summary>
+	<param name="re">R As Rectangle</param>
+	<param name="pa">Path As Graphics Path</param>
+</member><member name="M:CustomObjects.MBGlassButton.DrawShadow(System.Drawing.Rectangle,System.Drawing.Drawing2D.GraphicsPath)">
+	<summary>
+ Draw Shadow for MBGlassButton
+ </summary>
+	<param name="re">R As Rectangle</param>
+	<param name="pa">Path As Graphics Path</param>
+</member><member name="M:CustomObjects.MBGlassButton.DrawArrow(System.Drawing.Graphics)">
+	<summary>
+ Draw Arrow on MBGlassButton
+ </summary>
+	<param name="gr">graphics As Graphics</param>
+	<remarks></remarks>
+</member><member name="P:CustomObjects.MBGlassButton.GlowingingSpeed">
+	<summary>
+ Get or Set Fading Speeed of MBGlassButton
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.OnMouseEnter(System.EventArgs)">
+	<summary>
+ Handles Mouse Enter for MBGlassButton
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.OnMouseLeave(System.EventArgs)">
+	<summary>
+ Handles Mouse Leave for MBGlassButton
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.UpdateMouseLeave">
+	<summary>
+ Handles Mouse Leave for MBGlassButton
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.OnMouseDown(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Handles Mouse Down for MBGlassButton
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.OnMouseUp(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Handles Mouse Up for MBGlassButton
+ </summary>
+</member><member name="M:CustomObjects.MBGlassButton.OnMouseMove(System.Windows.Forms.MouseEventArgs)">
+	<summary>
+ Handles Mouse Move for MBGlassButton
+ </summary>
+</member><member name="T:CustomObjects.MBGlassButton">
+	<summary>
+ MBGlassButton Class © 2011 By Manoj Kishor Bhoir
+ </summary>
+	<remarks>Version 1.0.1096.2286</remarks>
+</member><member name="M:CustomObjects.MBColor.#ctor(System.Drawing.Color)">
+	<summary>
+ Constructor for MBColor
+ </summary>
+	<param name="color">Color Value</param>
+</member><member name="M:CustomObjects.MBColor.#ctor(System.UInt32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Constructor for MBColor
+ </summary>
+	<param name="a">Aplph value</param>
+	<param name="r">Red value</param>
+	<param name="g">Green value</param>
+	<param name="b">Blue value</param>
+</member><member name="T:CustomObjects.MBColor">
+	<summary>
+ MBColor Class for MBGlassButton
+ </summary>
+</member><member name="M:CustomObjects.MBMenuRendere.OnRenderMenuItemBackground(System.Windows.Forms.ToolStripItemRenderEventArgs)">
+	<summary>
+ Handles MenuItemBackground for MBGlassButton ContaxtMenuStrip
+ </summary>
+</member><member name="M:CustomObjects.MBMenuRendere.OnRenderItemImage(System.Windows.Forms.ToolStripItemImageRenderEventArgs)">
+	<summary>
+ Handles RenderItemImage for MBGlassButton ContaxtMenuStrip
+ </summary>
+</member><member name="M:CustomObjects.MBMenuRendere.DrawArc(System.Drawing.Rectangle,System.Drawing.Drawing2D.GraphicsPath)">
+	<summary>
+ Draw Arc for ContaxtMenuStripRenderer
+ </summary>
+</member><member name="M:CustomObjects.MBMenuRendere.GetRendererColor(System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Returns New Color for MBGlassButton ContextMenuStrip Renderer
+ </summary>
+	<param name="R">Red value as Integer</param>
+	<param name="G">Green value as Integer</param>
+	<param name="B">Blue value as Integer</param>
+	<returns>New Color</returns>
+</member><member name="T:CustomObjects.MBMenuRendere">
+	<summary>
+ MBMenuRenderer for MBGlassButton ContaxtMenuStrip
+ </summary>
+</member><member name="M:CustomObjects.myRenderer_ContextMenuStrip.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:CustomObjects.myRenderer_ContextMenuStrip.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member><member name="M:CustomObjects.MyGroupBoxExtension.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:CustomObjects.MyGroupBoxExtension.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member><member name="M:CustomObjects.MyComboBoxExtension.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:CustomObjects.MyComboBoxExtension.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member><member name="P:CustomObjects.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:CustomObjects.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:CustomObjects.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:CustomObjects.mySql.AddSlashes(System.String)">
+	<summary>
+ Quote string with slashes
+ </summary>
+	<param name="InputTxt">Text string need to be escape with slashes</param>
+</member><member name="M:CustomObjects.MyPanelExtension.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:CustomObjects.MyPanelExtension.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member><member name="P:CustomObjects.gLabel.MouseOver">
+	<summary>
+ Get or Set if the gLabel will Glow when the mouse is over it
+ </summary>
+</member><member name="P:CustomObjects.gLabel.MouseOverColor">
+	<summary>
+ Get or Set what color the gLabel will Glow when the mouse is over it
+ </summary>
+</member><member name="P:CustomObjects.gLabel.MouseOverForeColor">
+	<summary>
+ Get or Set what Forecolor the gLabel will be when the mouse is over it
+ </summary>
+</member><member name="P:CustomObjects.gLabel.Checked">
+	<summary>
+ Get or Set the Checked status
+ </summary>
+</member><member name="P:CustomObjects.gLabel.CheckedType">
+	<summary>
+ Get or Set the Checked behavior
+ </summary>
+</member><member name="P:CustomObjects.gLabel.CheckedColor">
+	<summary>
+ Get or Set what color the gLabel will Glow when the mouse is over it
+ </summary>
+</member><member name="P:CustomObjects.gLabel.FeatherState">
+	<summary>
+ Get or Set if the text is glowing
+ </summary>
+</member><member name="P:CustomObjects.gLabel.Feather">
+	<summary>
+ Get or Set the level of feathering (blurring) of the Outer Glow
+ </summary>
+</member><member name="P:CustomObjects.gLabel.Pulse">
+	<summary>
+ Get or Set if the gLabel should be Pulsing or not
+ </summary>
+</member><member name="P:CustomObjects.gLabel.PulseSpeed">
+	<summary>
+ Get or Set how fast to pulse the gLabel
+ </summary>
+</member><member name="P:CustomObjects.gLabel.ShadowOffset">
+	<summary>
+ Get or Set how far to offset the shadow from the text
+ </summary>
+</member><member name="P:CustomObjects.gLabel.ShadowState">
+	<summary>
+ Get or Set if the gLabel displays the shadow text
+ </summary>
+</member><member name="P:CustomObjects.gLabel.ShadowColor">
+	<summary>
+ Get or Set what color to use for the shadow text
+ </summary>
+</member><member name="P:CustomObjects.gLabel.GlowMatchChecked">
+	<summary>
+ Get or Set if the text is glowing
+ </summary>
+</member><member name="P:CustomObjects.gLabel.GlowState">
+	<summary>
+ Get or Set if the text is glowing
+ </summary>
+</member><member name="P:CustomObjects.gLabel.Glow">
+	<summary>
+ Get or Set how far out the text glows
+ </summary>
+</member><member name="P:CustomObjects.gLabel.GlowColor">
+	<summary>
+ Get or Set what color to use for the Glow
+ </summary>
+</member><member name="P:CustomObjects.gLabel.Border">
+	<summary>
+ Get or Set to show or not show the border
+ </summary>
+</member><member name="P:CustomObjects.gLabel.BorderColor">
+	<summary>
+ Get or Set what Color to draw the border
+ </summary>
+</member><member name="P:CustomObjects.gLabel.BorderWidth">
+	<summary>
+ Get or Set what Width to draw the border
+ </summary>
+</member><member name="P:CustomObjects.gLabel.AutoFit">
+	<summary>
+ Get or Set if the text is fitted to the DisplayRectangle or uses Font Size 
+ </summary>
+</member><member name="P:CustomObjects.gLabel.TextWordWrap">
+	<summary>
+ Get or Set if the text wraps inside the DisplayRectangle 
+ </summary>
+</member><member name="P:CustomObjects.gLabel.AutoEllipsis">
+	<summary>
+  Get or Set if the text adds an Ellipsis (...) when the text exceeds the width
+ </summary>
+</member><member name="P:CustomObjects.gLabel.FillType">
+	<summary>
+ The eFillType Fill Type to apply to the gLabel
+ </summary>
+</member><member name="P:CustomObjects.gLabel.FillTypeLinear">
+	<summary>
+ The Linear Blend type
+ </summary>
+</member><member name="P:CustomObjects.gLabel.ForeColorBlend">
+	<summary>
+ The ColorBlend used to fill the gLabel
+ </summary>
+</member><member name="M:CustomObjects.gLabel.EnabledColor(System.Drawing.Color)">
+	<summary>
+ Convert color to gray if Disabled else return origional color
+ </summary>
+	<param name="ColorIn">Color to Check</param>
+</member><member name="M:CustomObjects.gLabel.EnableBlends(System.Drawing.Color[])">
+	<summary>
+ Convert colorblend to grayscale if Disabled else return origional colorblend
+ </summary>
+	<param name="ColorIn">Colorblend to Check</param>
+</member><member name="T:CustomObjects.gLabel">
+	<summary>
+ Label control with built-in effects like AutoFit, MouseOver, Shadow, Outer Glow, and Pulse Glow
+ </summary>
+	<remarks>
+ v1.0.6
+ 01-26-2011
+ Added Padding Support
+ Added TextWordWrap Property
+ Added AutoEllispis Support
+ v1.0.7
+ 03-03-2011
+ Added MouseOverForeColor Property
+ Added Checked Property
+ Added Checked Color Property
+ Added Checked Toggle State Method
+ v1.0.8
+ 01-03-2012
+ Added BlendItemsConverter
+ Cleaned up Default Values
+ Added CheckedType Property
+ </remarks>
+</member><member name="M:CustomObjects.myRenderer_ToolStrip.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:CustomObjects.myRenderer_ToolStrip.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member><member name="M:CustomObjects.myRenderer_StatusStrip.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:CustomObjects.myRenderer_StatusStrip.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member><member name="P:CustomObjects.CButton.Shape">
+	<summary>
+ The Shape of the Button as eShape choices (Ellipse, Rectangle, and Triangles)
+ </summary>
+</member><member name="P:CustomObjects.CButton.DimFactorHover">
+	<summary>
+ Get or Set how much to dim the color on mouse rollover. Positive to Lighten and negative to Darken
+ </summary>
+</member><member name="P:CustomObjects.CButton.DimFactorClick">
+	<summary>
+ Get or Set how much to dim the color on mouse down. Positive to Lighten and negative to Darken
+ </summary>
+</member><member name="P:CustomObjects.CButton.BorderColor">
+	<summary>
+ Get or Set the Border color
+ </summary>
+</member><member name="P:CustomObjects.CButton.BorderShow">
+	<summary>
+ Get or Set whether to show the Border
+ </summary>
+</member><member name="P:CustomObjects.CButton.FillType">
+	<summary>
+ The eFillType Fill Type to apply to the CButton
+ </summary>
+</member><member name="P:CustomObjects.CButton.FillTypeLinear">
+	<summary>
+ The Linear Blend type
+ </summary>
+</member><member name="P:CustomObjects.CButton.ColorFillSolid">
+	<summary>
+ The Solid Color to fill the CButton
+ </summary>
+</member><member name="P:CustomObjects.CButton.ColorFillBlend">
+	<summary>
+ The ColorBlend used to fill the CButton
+ </summary>
+</member><member name="P:CustomObjects.CButton.Text">
+	<summary>
+ Get or Set the Button Text
+ </summary>
+</member><member name="P:CustomObjects.CButton.TextSmoothingMode">
+	<summary>
+ Get or Set the TextrenderingHint fot the button text
+ </summary>
+</member><member name="P:CustomObjects.CButton.TextAlign">
+	<summary>
+ Get or Set the alignment for the text
+ </summary>
+</member><member name="P:CustomObjects.CButton.TextMargin">
+	<summary>
+ Get or Set the margion between the text and the button edge
+ </summary>
+</member><member name="P:CustomObjects.CButton.TextImageRelation">
+	<summary>
+ Get or Set the Relationship of the Text to the Image
+ </summary>
+</member><member name="P:CustomObjects.CButton.TextShadowShow">
+	<summary>
+ Get or Set if the Text has a shadow
+ </summary>
+</member><member name="P:CustomObjects.CButton.TextShadow">
+	<summary>
+ Get or Set the color of the Shadow Text
+ </summary>
+</member><member name="P:CustomObjects.CButton.Image">
+	<summary>
+ Get or Set the small Image next to text
+ </summary>
+</member><member name="P:CustomObjects.CButton.ImageAlign">
+	<summary>
+ Get or Set the placement of the Image
+ </summary>
+</member><member name="P:CustomObjects.CButton.ImageSize">
+	<summary>
+ Get or Set the Size of the Image
+ </summary>
+</member><member name="P:CustomObjects.CButton.Imagelist">
+	<summary>
+ Get or Set the ImageList control
+ </summary>
+</member><member name="P:CustomObjects.CButton.ImageIndex">
+	<summary>
+ Get or Set the ImageList control
+ </summary>
+</member><member name="P:CustomObjects.CButton.SideImage">
+	<summary>
+ Get or Set the Side Image
+ </summary>
+</member><member name="P:CustomObjects.CButton.SideImageSize">
+	<summary>
+ Get or Set the Size of the Side Image
+ </summary>
+</member><member name="P:CustomObjects.CButton.SideImageIsClickable">
+	<summary>
+ Get or Set if the Side Image raises its own click event
+ </summary>
+</member><member name="P:CustomObjects.CButton.SideImageBehindText">
+	<summary>
+ Get or Set if the Side Image is in front or behind the Text
+ </summary>
+</member><member name="P:CustomObjects.CButton.SideImageAlign">
+	<summary>
+ Get or Set the Side Image Alignment
+ </summary>
+</member><member name="P:CustomObjects.CButton.FocalPoints">
+	<summary>
+ The CenterPoint and FocusScales for the ColorBlend
+ </summary>
+</member><member name="M:CustomObjects.CButton.CenterPtTrackerRectangle">
+	<summary>
+ This gets the Rectangle around the CenterPt for the DesignTime interaction
+ </summary>
+</member><member name="M:CustomObjects.CButton.FocusPtTrackerRectangle">
+	<summary>
+ This gets the Rectangle around the FocusPt for the DesignTime interaction
+ </summary>
+</member><member name="P:CustomObjects.CButton.UseMnemonic">
+	<summary>
+ If true, the first character proceeded by an ampersand will be used as the button's mnemonic key.
+ </summary>
+</member><member name="M:CustomObjects.CButton.DimTheColor(System.Drawing.Color,System.Int32)">
+	<summary>
+ This function takes the given color and Lightens or Darkens it by the given value 
+ </summary>
+	<param name="DimColor">Base Color object to be changed</param>
+	<param name="DimDegree">Positive value to darken and negative value to lighten DimColor</param>
+</member><member name="M:CustomObjects.CButton.GrayTheColor(System.Drawing.Color)">
+	<summary>
+ This function takes the given color and returns its gray equivilant
+ </summary>
+	<param name="GrayColor">Color object to be grayed</param>
+</member><member name="T:CustomObjects.CButton">
+	<summary>
+ Custom Button Control with Gradient Colors and Extra Image (VB.NET)
+ </summary>
+	<remarks>v2.0</remarks>
+</member><member name="M:CustomObjects.MyListBoxExtension.GradientColor.#ctor(System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color,System.Drawing.Color)">
+	<summary>
+ Constructor for GradientItemColor Class
+ </summary>
+</member><member name="T:CustomObjects.MyListBoxExtension.GradientColor">
+	<summary>
+ GradientColor Class which Provides Gradient Colors
+ </summary>
+</member>
+</members>
+</doc>

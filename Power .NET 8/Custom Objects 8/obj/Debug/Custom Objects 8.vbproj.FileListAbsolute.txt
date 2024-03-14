@@ -1,0 +1,19 @@
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom Objects 8.exe
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom Objects 8.xml
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom Objects 8.pdb
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\bin\Debug\Custom Objects 8.exe
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\bin\Debug\Custom Objects 8.pdb
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\bin\Debug\Custom Objects 8.xml
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\ResolveAssemblyReference.cache
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom_Objects_8.windows8Button.resources
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom_Objects_8.Resources.resources
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom Objects 8.vbproj.GenerateResource.Cache
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom Objects 8.exe.licenses
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom_Objects_8.pnlMenu.resources
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom_Objects_8.frmTransparentIcon.resources
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom_Objects_8.frmMain.resources
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom_Objects_8.frmPanelClickSetting.resources
+D:\PROJECTS\CustomObjects 8\Custom Objects 8\Custom Objects 8\obj\Debug\Custom_Objects_8.frmPanelSettings.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\Custom Objects 8.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\Custom Objects 8.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\Custom Objects 8.pdb

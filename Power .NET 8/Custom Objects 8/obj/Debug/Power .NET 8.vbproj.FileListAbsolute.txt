@@ -1,0 +1,26 @@
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\Debug\Power .NET 8.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\Debug\Power .NET 8.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\Debug\Power .NET 8.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\Power .NET 8.vbproj.GenerateResource.Cache
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\Power .NET 8.exe.licenses
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\Power .NET 8.exe
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\Power .NET 8.xml
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\Power .NET 8.pdb
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmPanelClickSetting.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmMain.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmPanelSettings.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmTransparentIcon.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.Resources.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmErrorDialog.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\Debug\MySql.Data.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmSqlConfiguration.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmErrorDialogMoreInfo.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmShadow.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\bin\Debug\Svg.dll
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.null.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmSideContainer.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmPromptDialog.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.frmMicrosoftReportViewer.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.BackgroundColor.resources
+C:\Users\Sylvster\Desktop\Power .Net 8\Power .NET 8\Custom Objects 8\obj\Debug\PowerNET8.AccentColor.resources
